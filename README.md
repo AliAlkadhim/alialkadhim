@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi there 👋 I'm Ali Al Kadhim
+
+### Physics Ph.D. Candidate (Florida State University) | CERN CMS Member & AI/ML Researcher | Data Science & Scientific Computing Enthusiast
+
+- 🔭 I’m currently working on [BayesOptPythia](https://github.com/AliAlkadhim/BayesOptPythia) which is the repository for the paper *Bayesian Optimization of Pythia8 Tunes* (which can be accessed here: https://arxiv.org/abs/2505.11675). In this paper, we use Bayesian Optimization to tune the most important parameters for the most important monte carlo generator in particle physics.
+
+- 🌱 I’m currently learning SQL and NoSQL databases, data pipeline and workflow management tools, data wearhouse design, MLOps platforms.
 
 <!--
 **AliAlkadhim/alialkadhim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
